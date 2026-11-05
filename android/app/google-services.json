@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925415727365",
+    "project_id": "rumour-ecde7",
+    "storage_bucket": "rumour-ecde7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925415727365:android:7ccbfd9e81af8ec1c4d76c",
+        "android_client_info": {
+          "package_name": "com.hema.rumour_code_interview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY8bFTjsMkx9O_petE9Z-YwVv5zaw8VDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
